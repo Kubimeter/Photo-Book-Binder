@@ -63,6 +63,11 @@ _Note: if your print shop supports borderless printing, go for it. Otherwise the
 - Performance is fine with 100+ photos thanks to ImageBitmap caching and a single-canvas architecture
   
 ## Photobooks I was thinking of...
-<img height="300" alt="Photobook with CopticStitch" src="https://github.com/user-attachments/assets/733a22d8-8b3e-4a36-872d-7afc92860e16" />
-<img height="300"  alt="Photobook with CopticStitch" src="https://github.com/user-attachments/assets/d26a309e-686b-47be-a2e6-1b93145c805e" />
+<img height="300" alt="Photobook with CopticStitch" src="https://github.com/user-attachments/assets/5ebb8159-644e-482f-9627-e5a2dbe7c6f7" />
+<img height="300" alt="Photobook with CopticStitch" src="https://github.com/user-attachments/assets/ffe0d639-d179-41ad-b5aa-fb9f7904960f" />
+<br>
+<img height="300" alt="Photobook with CopticStitch" src="https://github.com/user-attachments/assets/9cd3d9f9-eb42-48ce-94a4-027b4e6f9d12" />
+<img height="300" alt="Photobook with CopticStitch" src="https://github.com/user-attachments/assets/7780b274-ee46-4150-9c75-eff29830715a" />
+
+
 
